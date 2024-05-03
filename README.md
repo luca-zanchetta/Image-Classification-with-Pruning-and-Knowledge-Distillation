@@ -1,4 +1,4 @@
-# Image-Classification-with-Pruning-and-Knowledge-Distillation
+# Image Classification with Pruning and Knowledge Distillation
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/12ifrATuHpV7yMQj9BM_qPuy1rS5Ebjy5?usp=drive_link)
 
